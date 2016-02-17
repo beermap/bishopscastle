@@ -1,87 +1,390 @@
 {
   "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-17T21:22:02Z",
   "features": [
     {
       "type": "Feature",
+      "id": "way/134155675",
       "properties": {
-        "name": "Three Tuns",
-        "url": "http://www.thethreetunsinn.co.uk/"
+        "@id": "way/134155675",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "Three Tuns",
+        "addr:housenumber": "16",
+        "addr:postcode": "SY9 5BN",
+        "addr:street": "Market Square",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Three Tuns"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.996971607208252,
-          52.49454776211979
+          [
+            [
+              -2.9970272,
+              52.4946533
+            ],
+            [
+              -2.9970823,
+              52.4945564
+            ],
+            [
+              -2.9970914,
+              52.4944768
+            ],
+            [
+              -2.9970374,
+              52.4944856
+            ],
+            [
+              -2.9970216,
+              52.4944475
+            ],
+            [
+              -2.9968875,
+              52.4944507
+            ],
+            [
+              -2.9968864,
+              52.4945427
+            ],
+            [
+              -2.9968285,
+              52.4945258
+            ],
+            [
+              -2.9967888,
+              52.4945887
+            ],
+            [
+              -2.9970272,
+              52.4946533
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397231937",
       "properties": {
-        "name": "Six Bells",
-        "url": "http://www.sixbellsbrewery.com/"
+        "@id": "way/397231937",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "Castle Hotel",
+        "addr:postcode": "SY9 5BN",
+        "addr:street": "Market Square",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Castle Hotel",
+        "tourism": "hotel"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.998645305633545,
-          52.49004527376926
+          [
+            [
+              -2.9981305,
+              52.4950256
+            ],
+            [
+              -2.998137,
+              52.4950028
+            ],
+            [
+              -2.9981841,
+              52.4950076
+            ],
+            [
+              -2.9982619,
+              52.4949676
+            ],
+            [
+              -2.9982646,
+              52.4949415
+            ],
+            [
+              -2.9982163,
+              52.4949423
+            ],
+            [
+              -2.998223,
+              52.4948867
+            ],
+            [
+              -2.9981291,
+              52.4948614
+            ],
+            [
+              -2.9981227,
+              52.4948745
+            ],
+            [
+              -2.9980098,
+              52.4948663
+            ],
+            [
+              -2.9980071,
+              52.4948574
+            ],
+            [
+              -2.9979119,
+              52.4948574
+            ],
+            [
+              -2.9978797,
+              52.4950664
+            ],
+            [
+              -2.9980111,
+              52.4950696
+            ],
+            [
+              -2.9980634,
+              52.4950231
+            ],
+            [
+              -2.9981305,
+              52.4950256
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397235418",
       "properties": {
-        "name": "The Castle",
-        "url": "http://www.thecastlehotelbishopscastle.co.uk/"
+        "@id": "way/397235418",
+        "addr:city": "Bishop's Castle",
+        "addr:street": "Union Street",
+        "amenity": "pub",
+        "building": "commercial",
+        "name": "Boars Head Hotel"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.997846007347107,
-          52.49492172391395
+          [
+            [
+              -2.9980489,
+              52.491258
+            ],
+            [
+              -2.997711,
+              52.4912107
+            ],
+            [
+              -2.9976815,
+              52.4912646
+            ],
+            [
+              -2.9977887,
+              52.4912825
+            ],
+            [
+              -2.9977727,
+              52.4913266
+            ],
+            [
+              -2.9978585,
+              52.4913364
+            ],
+            [
+              -2.9978263,
+              52.4914377
+            ],
+            [
+              -2.9979765,
+              52.4914507
+            ],
+            [
+              -2.9980489,
+              52.491258
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397245750",
       "properties": {
-        "name": "The Boar's Head",
-        "url": "http://www.boarsheadhotel.co.uk/"
+        "@id": "way/397245750",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "The King's Head",
+        "addr:housenumber": "48",
+        "addr:postcode": "SY9 5AA",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The King's Head"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.9979372024536133,
-          52.491449799112424
+          [
+            [
+              -2.9978571,
+              52.4919848
+            ],
+            [
+              -2.9977338,
+              52.4919807
+            ],
+            [
+              -2.9977257,
+              52.4920395
+            ],
+            [
+              -2.9975983,
+              52.4920403
+            ],
+            [
+              -2.9975071,
+              52.4920542
+            ],
+            [
+              -2.9975473,
+              52.4919938
+            ],
+            [
+              -2.9974562,
+              52.4919799
+            ],
+            [
+              -2.9974199,
+              52.492046
+            ],
+            [
+              -2.9973945,
+              52.4921122
+            ],
+            [
+              -2.9978263,
+              52.4921105
+            ],
+            [
+              -2.9978571,
+              52.4919848
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397248107",
       "properties": {
-        "name": "The King's Head",
-        "url": "http://www.kingsheadbc.co.uk/"
+        "@id": "way/397248107",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "The Six Bells",
+        "addr:postcode": "SY9 5AA",
+        "addr:street": "Church Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "The Six Bells",
+        "operator": "Six Bells Brewery"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.9977869987487793,
-          52.49201159669033
+          [
+            [
+              -2.9986776,
+              52.4901151
+            ],
+            [
+              -2.9987087,
+              52.4900454
+            ],
+            [
+              -2.9986833,
+              52.4900258
+            ],
+            [
+              -2.9986363,
+              52.4900225
+            ],
+            [
+              -2.9985612,
+              52.4900184
+            ],
+            [
+              -2.998521,
+              52.4901017
+            ],
+            [
+              -2.9985384,
+              52.490145
+            ],
+            [
+              -2.9987919,
+              52.4902095
+            ],
+            [
+              -2.9988093,
+              52.4901989
+            ],
+            [
+              -2.9988616,
+              52.4901181
+            ],
+            [
+              -2.9987758,
+              52.4901066
+            ],
+            [
+              -2.9987557,
+              52.4901409
+            ],
+            [
+              -2.9986776,
+              52.4901151
+            ]
+          ]
         ]
       }
     },
     {
       "type": "Feature",
+      "id": "way/397250862",
       "properties": {
-        "name": "Crown & Anchor Vaults",
-        "url": "https://www.facebook.com/The-crown-and-anchor-vaults-201685649932184/"
+        "@id": "way/397250862",
+        "addr:city": "Bishop's Castle",
+        "addr:housename": "Crown and Anchor Vaults",
+        "addr:housenumber": "30",
+        "addr:street": "High Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Crown and Anchor Vaults"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Polygon",
         "coordinates": [
-          -2.9977977275848384,
-          52.49403662142293
+          [
+            [
+              -2.9978866,
+              52.4941323
+            ],
+            [
+              -2.9979014,
+              52.4940131
+            ],
+            [
+              -2.9977297,
+              52.4940147
+            ],
+            [
+              -2.9977244,
+              52.4941086
+            ],
+            [
+              -2.9978866,
+              52.4941323
+            ]
+          ]
         ]
       }
     }
