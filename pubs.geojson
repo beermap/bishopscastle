@@ -97,6 +97,7 @@
       "id": "way/397235418",
       "properties": {
         "@id": "way/397235418",
+        "url": "http://lostpubs.com/BC/the-boars-head-inn/",
         "addr:city": "Bishop's Castle",
         "addr:street": "Union Street",
         "amenity": "pub",
@@ -152,6 +153,7 @@
       "id": "way/397245750",
       "properties": {
         "@id": "way/397245750",
+        "url": "http://lostpubs.com/BC/the-kings-head/",
         "addr:city": "Bishop's Castle",
         "addr:housename": "The King's Head",
         "addr:housenumber": "48",
@@ -214,6 +216,7 @@
       "id": "way/397248107",
       "properties": {
         "@id": "way/397248107",
+        "url": "http://lostpubs.com/BC/6-bells-inn/",
         "addr:city": "Bishop's Castle",
         "addr:housename": "The Six Bells",
         "addr:postcode": "SY9 5AA",
@@ -288,6 +291,7 @@
       "id": "way/397250862",
       "properties": {
         "@id": "way/397250862",
+        "url": "",
         "addr:city": "Bishop's Castle",
         "addr:housename": "Crown and Anchor Vaults",
         "addr:housenumber": "30",
@@ -329,6 +333,7 @@
       "id": "way/398427080",
       "properties": {
         "@id": "way/398427080",
+        "url": "http://lostpubs.com/BC/the-3-tuns/",
         "addr:city": "Bishop's Castle",
         "addr:postcode": "SY9 5BW",
         "addr:street": "Salop Street",
