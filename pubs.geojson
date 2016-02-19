@@ -17,6 +17,7 @@
         "building": "commercial",
         "name": "Castle Hotel",
         "tourism": "hotel"
+        "url": "http://lostpubs.com/BC/the-castle-hotel/"
       },
       "geometry": {
         "type": "Polygon",
