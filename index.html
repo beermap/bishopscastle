@@ -44,6 +44,13 @@
                         });
 			geojson.addTo(map);
 		});
+		$.getJSON("./lost_pubs.geojson", function(data) {
+			var geojson = L.geoJson(data)
+                        geojson.on('click', function(e) {
+                                document.location.href = e.layer.feature.properties.url;
+                        });
+			geojson.addTo(map);
+		});
 	</script>
 </body>
 </html>
