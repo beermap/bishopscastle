@@ -9,6 +9,8 @@
       "id": "node/4015505517",
       "properties": {
         "@id": "node/4015505517",
+        "name": "The Cross Keys",
+        "url": "http://lostpubs.com/BC/the-cross-keys/",
         "historic": "site_of_former_pub",
         "name": "The Cross Keys"
       },
@@ -25,6 +27,8 @@
       "id": "node/4015519369",
       "properties": {
         "@id": "node/4015519369",
+        "name": "Bricklayers Arms",
+        "url": "http://lostpubs.com/BC/bricklayers-arms/",
         "historic": "site_of_former_pub",
         "name": "Bricklayers Arms"
       },
@@ -41,6 +45,8 @@
       "id": "node/4015519370",
       "properties": {
         "@id": "node/4015519370",
+        "name": "The Old Crown",
+        "url": "http://lostpubs.com/BC/the-old-crown/",
         "historic": "site_of_former_pub",
         "name": "The Old Crown"
       },
@@ -57,6 +63,8 @@
       "id": "node/4015519371",
       "properties": {
         "@id": "node/4015519371",
+        "name": "The White Swan",
+        "url": "http://lostpubs.com/BC/the-white-swan/",
         "historic": "site_of_former_pub",
         "name": "The White Swan"
       },
@@ -73,6 +81,8 @@
       "id": "node/4015519372",
       "properties": {
         "@id": "node/4015519372",
+        "name": "The Black Lion",
+        "url": "http://lostpubs.com/BC/the-black-lion/",
         "historic": "site_of_former_pub",
         "name": "The Black Lion"
       },
@@ -89,6 +99,8 @@
       "id": "node/4015540938",
       "properties": {
         "@id": "node/4015540938",
+        "name": "The Hit or Miss",
+        "url": "http://lostpubs.com/BC/the-hit-or-miss/",
         "historic": "site_of_former_pub",
         "name": "The Hit Or Miss"
       },
@@ -105,6 +117,8 @@
       "id": "node/4015540939",
       "properties": {
         "@id": "node/4015540939",
+        "name": "The Old Nags Head",
+        "url": "http://lostpubs.com/BC/the-old-nags-head/",
         "historic": "site_of_former_pub",
         "name": "The Old Nags Head"
       },
@@ -121,6 +135,8 @@
       "id": "node/4015540940",
       "properties": {
         "@id": "node/4015540940",
+        "name": "The Bull Inn",
+        "url": "http://lostpubs.com/BC/the-bull-inn/",
         "historic": "site_of_former_pub",
         "name": "The Bull Inn"
       },
@@ -137,6 +153,8 @@
       "id": "node/4015540941",
       "properties": {
         "@id": "node/4015540941",
+        "name": "The Plough",
+        "url": "http://lostpubs.com/BC/the-plough/",
         "historic": "site_of_former_pub",
         "name": "The Plough"
       },
@@ -153,6 +171,8 @@
       "id": "node/4015540942",
       "properties": {
         "@id": "node/4015540942",
+        "name": "The White Horse",
+        "url": "http://lostpubs.com/BC/the-white-horse/",
         "historic": "site_of_former_pub",
         "name": "The White Horse"
       },
@@ -169,6 +189,8 @@
       "id": "node/4015549959",
       "properties": {
         "@id": "node/4015549959",
+        "name": "The Crown and Star",
+        "url": "http://lostpubs.com/BC/the-crown-and-star/",
         "historic": "site_of_former_pub",
         "name": "The Crown and Star"
       },
@@ -185,6 +207,8 @@
       "id": "node/4015549960",
       "properties": {
         "@id": "node/4015549960",
+        "name": "The Fox",
+        "url": "http://lostpubs.com/BC/the-fox/",
         "historic": "site_of_former_pub",
         "name": "The Fox"
       },
@@ -201,6 +225,8 @@
       "id": "node/4015549961",
       "properties": {
         "@id": "node/4015549961",
+        "name": "The Old Talbot",
+        "url": "http://lostpubs.com/BC/the-old-talbot/",
         "historic": "site_of_former_pub",
         "name": "The Old Talbot"
       },
@@ -217,6 +243,8 @@
       "id": "node/4015549962",
       "properties": {
         "@id": "node/4015549962",
+        "name": "The Red Lion",
+        "url": "http://lostpubs.com/BC/the-red-lion/",
         "historic": "site_of_former_pub",
         "name": "The Red Lion"
       },
@@ -233,6 +261,8 @@
       "id": "node/4015549963",
       "properties": {
         "@id": "node/4015549963",
+        "name": "The Unicorn",
+        "url": "http://lostpubs.com/BC/the-unicorn/",
         "historic": "site_of_former_pub",
         "name": "The Unicorn"
       },
@@ -249,6 +279,8 @@
       "id": "node/4015549964",
       "properties": {
         "@id": "node/4015549964",
+        "name": "The Old Black Lion",
+        "url": "http://lostpubs.com/BC/the-old-black-lion/",
         "historic": "site_of_former_pub",
         "name": "The Old Black Lion"
       },
@@ -265,6 +297,8 @@
       "id": "node/4015549965",
       "properties": {
         "@id": "node/4015549965",
+        "name": "The Railway Tavern",
+        "url": "http://lostpubs.com/BC/the-railway-tavern/",
         "historic": "site_of_former_pub",
         "name": "The Railway Tavern"
       },
@@ -281,6 +315,8 @@
       "id": "node/4015549966",
       "properties": {
         "@id": "node/4015549966",
+        "name": "The Harp Inn",
+        "url": "http://lostpubs.com/BC/the-harp-inn/",
         "historic": "site_of_former_pub",
         "name": "The Harp Inn"
       },
@@ -297,6 +333,8 @@
       "id": "node/4015549967",
       "properties": {
         "@id": "node/4015549967",
+        "name": "The Old Swan",
+        "url": "http://lostpubs.com/BC/the-old-swan/",
         "historic": "site_of_former_pub",
         "name": "The Old Swan"
       },
