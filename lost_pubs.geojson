@@ -1,0 +1,312 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-02-23T11:09:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/4015505517",
+      "properties": {
+        "@id": "node/4015505517",
+        "historic": "site_of_former_pub",
+        "name": "The Cross Keys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9981429,
+          52.4959868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015519369",
+      "properties": {
+        "@id": "node/4015519369",
+        "historic": "site_of_former_pub",
+        "name": "Bricklayers Arms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997483,
+          52.4956917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015519370",
+      "properties": {
+        "@id": "node/4015519370",
+        "historic": "site_of_former_pub",
+        "name": "The Old Crown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9992949,
+          52.4950587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015519371",
+      "properties": {
+        "@id": "node/4015519371",
+        "historic": "site_of_former_pub",
+        "name": "The White Swan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9985814,
+          52.494666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015519372",
+      "properties": {
+        "@id": "node/4015519372",
+        "historic": "site_of_former_pub",
+        "name": "The Black Lion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9986055,
+          52.4945027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540938",
+      "properties": {
+        "@id": "node/4015540938",
+        "historic": "site_of_former_pub",
+        "name": "The Hit Or Miss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9994933,
+          52.4941483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540939",
+      "properties": {
+        "@id": "node/4015540939",
+        "historic": "site_of_former_pub",
+        "name": "The Old Nags Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9980959,
+          52.4936028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540940",
+      "properties": {
+        "@id": "node/4015540940",
+        "historic": "site_of_former_pub",
+        "name": "The Bull Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9971303,
+          52.495066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540941",
+      "properties": {
+        "@id": "node/4015540941",
+        "historic": "site_of_former_pub",
+        "name": "The Plough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9970364,
+          52.4949926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540942",
+      "properties": {
+        "@id": "node/4015540942",
+        "historic": "site_of_former_pub",
+        "name": "The White Horse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997082,
+          52.4948162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549959",
+      "properties": {
+        "@id": "node/4015549959",
+        "historic": "site_of_former_pub",
+        "name": "The Crown and Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9976373,
+          52.4944553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549960",
+      "properties": {
+        "@id": "node/4015549960",
+        "historic": "site_of_former_pub",
+        "name": "The Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9956578,
+          52.4941369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549961",
+      "properties": {
+        "@id": "node/4015549961",
+        "historic": "site_of_former_pub",
+        "name": "The Old Talbot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9978465,
+          52.4937139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549962",
+      "properties": {
+        "@id": "node/4015549962",
+        "historic": "site_of_former_pub",
+        "name": "The Red Lion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9979484,
+          52.4924303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549963",
+      "properties": {
+        "@id": "node/4015549963",
+        "historic": "site_of_former_pub",
+        "name": "The Unicorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9976882,
+          52.492427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549964",
+      "properties": {
+        "@id": "node/4015549964",
+        "historic": "site_of_former_pub",
+        "name": "The Old Black Lion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9980986,
+          52.4918685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549965",
+      "properties": {
+        "@id": "node/4015549965",
+        "historic": "site_of_former_pub",
+        "name": "The Railway Tavern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9981415,
+          52.4916333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549966",
+      "properties": {
+        "@id": "node/4015549966",
+        "historic": "site_of_former_pub",
+        "name": "The Harp Inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997993,
+          52.4912123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549967",
+      "properties": {
+        "@id": "node/4015549967",
+        "historic": "site_of_former_pub",
+        "name": "The Old Swan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9981043,
+          52.4906859
+        ]
+      }
+    }
+  ]
+}
