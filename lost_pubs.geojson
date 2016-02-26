@@ -166,6 +166,24 @@
         ]
       }
     },
+     {
+      "type": "Feature",
+      "id": "node/4015540941",
+      "properties": {
+        "@id": "node/4015540941",
+        "name": "Temperence Hotel",
+        "url": "http://lostpubs.com/BC/temperence-hotel/",
+        "historic": "site_of_former_pub",
+        "name": "Temperence Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9970364,
+          52.4949930
+        ]
+      }
+    },
     {
       "type": "Feature",
       "id": "node/4015540942",
