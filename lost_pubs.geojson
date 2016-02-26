@@ -153,34 +153,16 @@
       "id": "node/4015540941",
       "properties": {
         "@id": "node/4015540941",
-        "name": "The Plough",
-        "url": "http://lostpubs.com/BC/the-plough/",
+        "name": "The Plough or Temperence Hotel",
+        "url": "http://lostpubs.com/BC/the-plough-or-temperence-hotel/",
         "historic": "site_of_former_pub",
-        "name": "The Plough"
+        "name": "The Plough or Temperence Hotel"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -2.9970364,
           52.4949926
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4015640941",
-      "properties": {
-        "@id": "node/4015640941",
-        "name": "Temperence Hotel",
-        "url": "http://lostpubs.com/BC/temperence-hotel/",
-        "historic": "site_of_former_pub",
-        "name": "Temperence Hotel"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.9970365,
-          52.4949927
         ]
       }
     },
