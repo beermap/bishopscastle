@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/4015505517",
+      "properties": {
+        "@id": "node/4015505517",
+        "name": "The Cross Keys",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-cross-keys/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9981429,
+          52.4959868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015519369",
+      "properties": {
+        "@id": "node/4015519369",
+        "name": "Bricklayers Arms",
+        "url": "http://lostpubsofbishopscastle.co.uk/bricklayers-arms/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997483,
+          52.4956917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015519370",
+      "properties": {
+        "@id": "node/4015519370",
+        "name": "The Old Crown",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-old-crown/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9992949,
+          52.4950587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015519371",
+      "properties": {
+        "@id": "node/4015519371",
+        "name": "The White Swan",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-white-swan/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9985814,
+          52.494666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015519372",
+      "properties": {
+        "@id": "node/4015519372",
+        "name": "The Black Lion",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-black-lion/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9986055,
+          52.4945027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540938",
+      "properties": {
+        "@id": "node/4015540938",
+        "name": "The Hit Or Miss",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-hit-or-miss/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9992353916168213,
+          52.49415583368222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540939",
+      "properties": {
+        "@id": "node/4015540939",
+        "name": "The Old Nags Head",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-old-nags-head/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9980959,
+          52.4936028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540940",
+      "properties": {
+        "@id": "node/4015540940",
+        "name": "The Bull Inn",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-bull-inn/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9971303,
+          52.495066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540941",
+      "properties": {
+        "@id": "node/4015540941",
+        "name": "The Plough or Temperance Hotel",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-plough-or-temperance-hotel/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9970364,
+          52.4949926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015540942",
+      "properties": {
+        "@id": "node/4015540942",
+        "name": "The White Horse",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-white-horse/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997082,
+          52.4948162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549959",
+      "properties": {
+        "@id": "node/4015549959",
+        "name": "The Crown and Star",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-crown-and-star/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9976373,
+          52.4944553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549960",
+      "properties": {
+        "@id": "node/4015549960",
+        "name": "The Fox",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-fox/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9956578,
+          52.4941369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549961",
+      "properties": {
+        "@id": "node/4015549961",
+        "name": "The Old Talbot",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-old-talbot/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9978465,
+          52.4937139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549962",
+      "properties": {
+        "@id": "node/4015549962",
+        "name": "The Red Lion",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-red-lion/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9979484,
+          52.4924303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549963",
+      "properties": {
+        "@id": "node/4015549963",
+        "name": "The Unicorn",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-unicorn/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9976882,
+          52.492427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549964",
+      "properties": {
+        "@id": "node/4015549964",
+        "name": "The Old Black Lion",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-old-black-lion/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9980986,
+          52.4918685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549965",
+      "properties": {
+        "@id": "node/4015549965",
+        "name": "The Railway Tavern",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-railway-tavern/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9981415,
+          52.4916333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549966",
+      "properties": {
+        "@id": "node/4015549966",
+        "name": "The Harp Inn",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-harp-inn/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.997993,
+          52.4912123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4015549967",
+      "properties": {
+        "@id": "node/4015549967",
+        "name": "The Old Swan",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-old-swan/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9981043,
+          52.4906859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Owl Inn",
+        "url": "http://lostpubsofbishopscastle.co.uk/the-owl-inn/",
+        "historic": "site_of_former_pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99975037574768,
+          52.49498377840183
+        ]
+      }
+    }
+  ]
+}
